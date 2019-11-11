@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Steini1984/unRAID6-ZnapZend/master/unRAID6-ZnapZend.plg</PluginURL>
+<PluginAuthor>steini84</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>ZnapZend</Name>
+<Description>
+ZFS backup with remote capabilities
+</Description>
+<Support>https://forums.unraid.net/topic/84442-znapzend-plugin-for-unraid/</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/steini1984-s-repositoy/master/unRAID6-ZFS.png</Icon>
+</Containers>
