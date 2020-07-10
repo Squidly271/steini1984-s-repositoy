@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Steini1984/unRAID6-ZnapZend/master/unRAID6-ZnapZend.plg</PluginURL>
 <PluginAuthor>steini84</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>ZFS</Name>
+<Name>ZnapZend</Name>
 <Description>
-Allows you to use ZFS format on non Array disks.
+ZFS backup with remote capabilities
 </Description>
-<Support>http://lime-technology.com/forum/index.php?topic=43019.0</Support>
+<Support>https://forums.unraid.net/topic/84442-znapzend-plugin-for-unraid/</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/steini1984-s-repositoy/master/unRAID6-ZFS.png</Icon>
 </Containers>
