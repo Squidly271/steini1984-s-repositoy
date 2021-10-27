@@ -5,7 +5,7 @@
 <PluginAuthor>steini84</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>Samnoid</Name>
+<Name>Sanoid</Name>
 <Description>
 Sanoid is a policy-driven snapshot management tool for ZFS filesystems. When combined with the Linux KVM hypervisor, you can use it to make your systems functionally immortal.
 </Description>
